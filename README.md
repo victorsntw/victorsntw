@@ -107,13 +107,13 @@ COMO ADICIONAR UM PROJETO:
 
 ### 🐍 Projeto Python
 
-**EDITAR — Nome do projeto**
+**Sistema de Gestão de Alunos**
 
-Descrição: adicione aqui o objetivo do projeto, o problema resolvido e as principais funcionalidades.
+Descrição: Sistema de gestão de alunos simples contendo apenas dois CRUD para cadastro de alunos de notas, funcionalidades para calcular média anual por 4 notas.
 
 `Python` `Automação`
 
-[ Acessar repositório ](https://github.com/victorsntw)
+[ Acessar repositório ](https://github.com/victorsntw/sistema_de_gestao_de_alunos.git)
 
       </td>
       <td width="50%" valign="top">
