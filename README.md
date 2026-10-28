@@ -115,8 +115,7 @@ Descrição: Sistema de gestão de alunos simples contendo apenas dois CRUD para
 
 [ Acessar repositório ](https://github.com/victorsntw/sistema_de_gestao_de_alunos.git)
 
-      </td>
-      <td width="50%" valign="top">
+      [https://github.com/victorsntw/sistema_de_gestao_de_alunos.git]
 
 ### 📊 Projeto de Dados
 
